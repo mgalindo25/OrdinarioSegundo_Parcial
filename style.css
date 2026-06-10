@@ -1,0 +1,24 @@
+.cg {
+    display: flex;
+}
+
+.c1, .c2, .c4, .c5 {
+    background-color: rgb(115, 149, 243);
+    width: 100px;
+    border: 2px solid rgb(46, 89, 209);
+    text-align: center;
+}
+
+.c3 {
+    background-color: rgb(159, 179, 233);
+    width: 100px;
+    border: 2px solid rgb(46, 89, 209);
+    text-align: center;
+}
+
+.cuadro {
+    background-color: rgb(196, 205, 233);
+    width: 350px;
+    border: 5px solid rgb(99, 141, 255);
+    padding: 15px;
+}
